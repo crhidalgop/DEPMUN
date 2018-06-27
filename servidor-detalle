@@ -1,0 +1,88 @@
+{
+    "hojaDeVida": {
+        "nombreFuncionario": "ADMINFUNC TESTER 4 ",
+        "fotoUrl": "co/gov/dafp/sigep2/cargue/fotoUsuario/41234567893.jpg",
+        "denominacionCargo": "Profesional Especializado",
+        "nombreEntidad": "ADA s.a.",
+        "correoElectronico": "MARIA.AGUDELO@ADA.CO",
+        "numeroTelefonoOfcina": "5464782",
+        "numeroFax": "1",
+        "experenciaLaboral": [{
+                "cargo": "DOCENTE",
+                "entidad": "UNIVERSIDAD EAFIT",
+                "fechaInicio": "25/05/2015",
+                "fechaFin": "25/05/2018",
+                "estado": "Retirado"
+            },
+            {
+                "cargo": "DOCENTE",
+                "entidad": "UNIVERSIDAD EAFIT",
+                "fechaInicio": "01/02/2018",
+                "estado": "Actualmente"
+            },
+            {
+                "cargo": "DOCENTE",
+                "entidad": "UNIVERSIDAD EAFIT",
+                "fechaInicio": "25/05/2018",
+                "fechaFin": "25/05/2017",
+                "estado": "Retirado"
+            },
+            {
+                "cargo": "DOCENTE",
+                "entidad": "UNIVERSIDAD PONTIFICIA BOLIVARIANA",
+                "fechaInicio": "17/05/2018",
+                "estado": "Actualmente"
+            },
+            {
+                "cargo": "Cargo 3",
+                "fechaInicio": "13/03/2017",
+                "estado": "Actualmente"
+            }
+        ],
+        "educacionFormal": [{
+                "nivelDeFormacion": "DOCTORADO",
+                "areaConocimiento": "Economía, administración, contaduría y afines",
+                "estado": "No Graduado"
+            },
+            {
+                "nivelDeFormacion": "TECNOLOGO",
+                "areaConocimiento": "CIENCIAS DE LA SALUD",
+                "estado": "No Graduado"
+            }
+        ],
+        "escalaSalarial": [{
+                "nombreEscalaSalarial": "Asesor",
+                "rangosSalarios": [{
+                        "nombreEscala": "General",
+                        "denominacion": "Asesor",
+                        "grado": "01",
+                        "totalDebengado": 3456789.0
+                    },
+                    {
+                        "nombreEscala": "General",
+                        "denominacion": "Asesor",
+                        "grado": "02",
+                        "totalDebengado": 3756789.0
+                    }
+                ]
+            },
+            {
+                "nombreEscalaSalarial": "Asistencial",
+                "rangosSalarios": [{
+                        "nombreEscala": "General",
+                        "denominacion": "Auxiliar Administrativo",
+                        "grado": "12",
+                        "totalDebengado": 1456789.0
+                    },
+                    {
+                        "nombreEscala": "General",
+                        "denominacion": "Auxiliar de Servicio Generales",
+                        "grado": "12",
+                        "totalDebengado": 1756789.0
+                    }
+                ]
+            }
+        ]
+    },
+    "error": false
+}
