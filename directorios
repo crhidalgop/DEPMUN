@@ -1,0 +1,88 @@
+{
+   "resultados":[
+      {
+         "codPersona":692,
+         "fotoUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbFT3emHraiZHW3smRqJCG8ku4aJxdgB1EtI7xLjgNPJxbmfg",
+         "codEntidad":1,
+         "codDepartamento":5,
+         "codMunicipio":1629,
+         "codTipoContrato":109,
+         "nombreFuncionario":"CONTRATISTA  TESTER 2 ",
+         "nombreEntidad":"ADA s.a.",
+         "nombreDepartamento":"ANTIOQUIA",
+         "nombreMunicipio":"MEDELLÍN",
+         "nombreTipoContrato":"CONTRATISTA",
+         "emailFuncionario":"ANA.CHOCONTA@ADA.CO"
+      },
+      {
+         "codPersona":694,
+         "fotoUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbFT3emHraiZHW3smRqJCG8ku4aJxdgB1EtI7xLjgNPJxbmfg",
+         "codEntidad":1,
+         "codDepartamento":5,
+         "codMunicipio":1629,
+         "codTipoContrato":110,
+         "nombreFuncionario":"SERVIDOR PUBLICO  TESTER 2 ",
+         "nombreEntidad":"ADA s.a.",
+         "nombreDepartamento":"ANTIOQUIA",
+         "nombreMunicipio":"MEDELLÍN",
+         "nombreTipoContrato":"SERVIDOR PÚBLICO",
+         "emailFuncionario":"ANA.CHOCONTA@ADA.CO",
+         "telefonoFuncionario":"883366322"
+      },
+      {
+         "codPersona":644,
+         "fotoUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbFT3emHraiZHW3smRqJCG8ku4aJxdgB1EtI7xLjgNPJxbmfg",
+         "codEntidad":1,
+         "codDepartamento":5,
+         "codMunicipio":1629,
+         "codTipoContrato":110,
+         "nombreFuncionario":"SISTEMA2  TESTER 1 ",
+         "nombreEntidad":"ADA s.a.",
+         "nombreDepartamento":"ANTIOQUIA",
+         "nombreMunicipio":"MEDELLÍN",
+         "nombreTipoContrato":"SERVIDOR PÚBLICO",
+         "emailFuncionario":"SAYDER.ROMAN@ADA.CO",
+         "telefonoFuncionario":"43432432434"
+      }
+   ],
+   "filtros":{
+      "departamento":[
+         {
+            "codDepartamento":5,
+            "nombreDepartamento":"ANTIOQUIA",
+            "totalRegistros":136
+         }
+      ],
+      "municipios":[
+         {
+            "codMunicipio":1629,
+            "nombreMunicipio":"MEDELLÍN",
+            "totalRegistros":136
+         }
+      ],
+      "entidad":[
+         {
+            "codEntidad":1,
+            "nombreEntidad":"ADA s.a.",
+            "totalRegistros":136
+         }
+      ],
+      "tipoContrato":[
+         {
+            "codTipoContrato":109,
+            "nombreTipoContrato":"CONTRATISTA",
+            "totalRegistros":43
+         },
+         {
+            "codTipoContrato":110,
+            "nombreTipoContrato":"SERVIDOR PÚBLICO",
+            "totalRegistros":89
+         }
+      ]
+   },
+   "totalRegistros":136,
+   "limiteFinal":3,
+   "error":false,
+   "mensaje":"",
+   "mensajeTecnico":""
+}
