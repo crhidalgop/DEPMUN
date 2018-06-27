@@ -51,6 +51,11 @@
             "codDepartamento":5,
             "nombreDepartamento":"ANTIOQUIA",
             "totalRegistros":136
+         },
+         {
+            "codDepartamento":2,
+            "nombreDepartamento":"ANTIOQUIA 2",
+            "totalRegistros":36
          }
       ],
       "municipios":[
@@ -58,6 +63,11 @@
             "codMunicipio":1629,
             "nombreMunicipio":"MEDELLÍN",
             "totalRegistros":136
+         },
+         {
+            "codMunicipio":1620,
+            "nombreMunicipio":"MEDELLÍN 2",
+            "totalRegistros":106
          }
       ],
       "entidad":[
@@ -65,6 +75,11 @@
             "codEntidad":1,
             "nombreEntidad":"ADA s.a.",
             "totalRegistros":136
+         },
+         {
+            "codEntidad":3,
+            "nombreEntidad":"ADA s.a. 2",
+            "totalRegistros":6
          }
       ],
       "tipoContrato":[
