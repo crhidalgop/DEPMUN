@@ -48,49 +48,49 @@
    "filtros":{
       "departamento":[
          {
-            "codDepartamento":5,
-            "nombreDepartamento":"ANTIOQUIA",
+            "cod":5,
+            "nombre":"ANTIOQUIA",
             "totalRegistros":136
          },
          {
-            "codDepartamento":2,
-            "nombreDepartamento":"ANTIOQUIA 2",
+            "cod":2,
+            "nombre":"ANTIOQUIA 2",
             "totalRegistros":36
          }
       ],
       "municipios":[
          {
-            "codMunicipio":1629,
-            "nombreMunicipio":"MEDELLÍN",
+            "cod":1629,
+            "nombre":"MEDELLÍN",
             "totalRegistros":136
          },
          {
-            "codMunicipio":1620,
-            "nombreMunicipio":"MEDELLÍN 2",
+            "cod":1620,
+            "nombre":"MEDELLÍN 2",
             "totalRegistros":106
          }
       ],
       "entidad":[
          {
-            "codEntidad":1,
-            "nombreEntidad":"ADA s.a.",
+            "cod":1,
+            "nombre":"ADA s.a.",
             "totalRegistros":136
          },
          {
-            "codEntidad":3,
-            "nombreEntidad":"ADA s.a. 2",
+            "cod":3,
+            "nombre":"ADA s.a. 2",
             "totalRegistros":6
          }
       ],
       "tipoContrato":[
          {
-            "codTipoContrato":109,
-            "nombreTipoContrato":"CONTRATISTA",
+            "cod":109,
+            "nombre":"CONTRATISTA",
             "totalRegistros":43
          },
          {
-            "codTipoContrato":110,
-            "nombreTipoContrato":"SERVIDOR PÚBLICO",
+            "cod":110,
+            "nombre":"SERVIDOR PÚBLICO",
             "totalRegistros":89
          }
       ]
