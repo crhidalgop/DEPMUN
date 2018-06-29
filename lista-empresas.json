@@ -1,0 +1,18 @@
+{
+    "totalRegistros": 10,
+    "entidadesPortal": [{
+            "codEntidad": 23,
+            "nombreEntidad": "entidad 23"
+        },
+        {
+            "codEntidad": 24,
+            "nombreEntidad": "entidad 24"
+        },
+        {
+            "codEntidad": 25,
+            "nombreEntidad": "entidad 24"
+        }
+    ],
+    "limiteFinal": 3,
+    "error": false
+}
