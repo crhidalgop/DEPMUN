@@ -6,7 +6,7 @@
             "correoInstitucional": "correoInstitucional@entidad.com",
             "orden": "Nacional",
             "indicativo": "57",
-            "telefono": "7764793",
+            "telefono": "7764793"
         },
         {
             "codEntidad": 24,
@@ -14,7 +14,7 @@
             "correoInstitucional": "correoInstitucional@entidad.com",
             "orden": "Nacional",
             "indicativo": "57",
-            "telefono": "7764793",
+            "telefono": "7764793"
         },
         {
             "codEntidad": 25,
@@ -22,7 +22,7 @@
             "correoInstitucional": "correoInstitucional@entidad.com",
             "orden": "Nacional",
             "indicativo": "57",
-            "telefono": "7764793",
+            "telefono": "7764793"
         }
     ],
     "limiteFinal": 3,
