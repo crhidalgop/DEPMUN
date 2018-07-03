@@ -2,15 +2,27 @@
     "totalRegistros": 10,
     "entidadesPortal": [{
             "codEntidad": 23,
-            "nombreEntidad": "entidad 23"
+            "nombreEntidad": "entidad 23",
+            "correoInstitucional": "correoInstitucional@entidad.com",
+            "orden": "Nacional",
+            "indicativo": "57",
+            "telefono": "7764793",
         },
         {
             "codEntidad": 24,
-            "nombreEntidad": "entidad 24"
+            "nombreEntidad": "entidad 24",
+            "correoInstitucional": "correoInstitucional@entidad.com",
+            "orden": "Nacional",
+            "indicativo": "57",
+            "telefono": "7764793",
         },
         {
             "codEntidad": 25,
-            "nombreEntidad": "entidad 24"
+            "nombreEntidad": "entidad 24",
+            "correoInstitucional": "correoInstitucional@entidad.com",
+            "orden": "Nacional",
+            "indicativo": "57",
+            "telefono": "7764793",
         }
     ],
     "limiteFinal": 3,
